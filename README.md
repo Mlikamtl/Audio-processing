@@ -58,13 +58,6 @@ python audio_recorder.py
 
 ---
 
-پیش‌نمایش
-
-<p align="center">
-  <img src="https://i.imgur.com/XsI9apv.png" alt="Waveform Example" width="600">
-</p>
-
----
 
  این برنامه چگونه کار می‌کند؟
 
@@ -142,14 +135,6 @@ You'll see:
 ```
 
 Then a waveform plot of your voice will appear.
-
----
-
- Preview
-
-<p align="center">
-  <img src="https://i.imgur.com/XsI9apv.png" alt="Waveform Example" width="600">
-</p>
 
 ---
 
